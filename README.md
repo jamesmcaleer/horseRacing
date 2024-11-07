@@ -1,6 +1,9 @@
 # Horse Racing 🐎
 A digital horse racing simulator to continue my grandfather's holiday tradition
 
+<img width="1675" alt="horseracescreenshot" src="https://github.com/user-attachments/assets/00fbb110-128c-4174-ac0e-dc7b88b994f4">
+
+
 ## Odds Simulation
 
 The **ChanceHandler** creates a set of 8 odds (ex: 2:1, 9:1)
